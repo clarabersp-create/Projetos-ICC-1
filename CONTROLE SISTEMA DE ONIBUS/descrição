@@ -1,1 +1,3 @@
-
+Sistema de gestão e cálculos de uma linha de ônibus, dados obtidos a partir de arquivo com dados CSV. 
+- funcionalidades do programa: recebe e manipula arquivo de origem e de registro, imprime infos obtidas das paradas, 
+mostra total de entradas e saídas, quantidade de pessoas em cada parada e a lotação máxima.
